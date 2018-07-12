@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/Sikiro.NoSql.Redis/Sikiro.NoSql.Redis/bin/Debug
+/Sikiro.NoSql.Redis/Sikiro.NoSql.Redis/obj/Debug
+/Sikiro.NoSql.Redis/packages
+/Sikiro.NoSql.Redis/.vs/Sikiro.NoSql.Redis/v15
+/.vs/Sikiro.NoSql.Redis/v15
+/Sikiro.NoSql.Redis/obj/Debug
+/Sikiro.NoSql.Redis/bin/Debug
